@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1668440489 source:c:\users\tanvir\documents\coding\cse225\matrix\main.cpp
+	<iostream>
+	"matrix.h"
+
+1668440489 c:\users\tanvir\documents\coding\cse225\matrix\matrix.h
+	<vector>
+
+1668440256 source:c:\users\tanvir\documents\coding\cse225\matrix\matrix.cpp
+	"matrix.h"
+	<iostream>
+	<vector>
+
